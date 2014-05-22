@@ -1,7 +1,7 @@
 {
     "CACHE_HASH_ALGORITHM": "sha1",
     "STACK": "lucid",
-    "DOWNLOAD_URL": "211.87.239.101/binaries/{STACK}",
+    "DOWNLOAD_URL": "http://211.87.239.101/binaries/{STACK}",
     "WEB_SERVER": "httpd",
     "PHP_VM": "php",
     "ADMIN_EMAIL": "admin@localhost",
